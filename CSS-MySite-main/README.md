@@ -1,6 +1,6 @@
 # CSS-MySite
 
-My Website Link: https://karanjthakur.github.io/CSS-MySite/
+My Website Link: https://Vikas-G6.github.io/CSS-MySite/
 
 # My Personal Website
 
@@ -60,6 +60,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-If you have any questions or suggestions regarding my personal website, please feel free to reach out to me via email at [karan@datatalks.in]. I would be happy to connect with you.
+If you have any questions or suggestions regarding my personal website, please feel free to reach out to me via email at [vikasbgurav@gmail.com]. I would be happy to connect with you.
 
 Thank you for visiting my personal website repository, and I hope you enjoy exploring my work!
